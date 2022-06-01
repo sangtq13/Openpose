@@ -1,11 +1,11 @@
-# OpenPose
+# OpenPose: Project with Talent5 Academy
 
 ## Preparation
 1. cài conda
     - https://www.anaconda.com/products/individual
     
 2. Create environment for project
-    - conda create -n Talent5OpenPose python=3.8
+    - conda create -n OpenPose python=3.8
     
 3. Install pytorch
     - cpu  
