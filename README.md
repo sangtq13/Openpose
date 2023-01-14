@@ -1,4 +1,4 @@
-# OpenPose: Project with Talent5 Academy
+# OpenPose Project: This project is using to detect the person's posture in photos and videos 
 
 ## Preparation
 1. cài conda
