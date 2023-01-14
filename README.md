@@ -1,7 +1,7 @@
 # OpenPose Project: This project is using to detect the person's posture in photos and videos 
 
 ## Preparation
-1. cài conda
+1. Install conda
     - https://www.anaconda.com/products/individual
     
 2. Create environment for project
